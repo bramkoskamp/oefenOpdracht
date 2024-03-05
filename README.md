@@ -39,3 +39,4 @@ ls -la
 6. Zorg dat dit project via een private github repository naar je linux machine wordt gedeployed.
     
 7. Laat de docent de website zien draaien vanaf je lokale unix machine.
+"# oefenOpdracht" 
